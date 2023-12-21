@@ -101,6 +101,6 @@ However, this may prevent or stagnate the network's growth because HIP 93 does n
 As [HIP 74](https://github.com/helium/HIP/blob/main/0074-mobile-poc-modeled-coverage-rewards.md) has already been deployed by Nova Labs, Nova Labs is able to change the chain variables to implement this HIP.
 
 ## Success Metrics: 
-This HIP is successful if: General consensus is that the coverage ratio between CBRS and WiFi AP is “fair” and that multilayered coverage is achieved in an efficient manner.
+This HIP is successful if: General consensus is that the coverage ratio between CBRS and WiFi AP is “fair” and that multilayered coverage is achieved in an efficient manner. 
 
 
