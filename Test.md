@@ -65,7 +65,7 @@ The below boosts will be applied for each indoor and outdoor CBRS Radio and Wi-F
 
 
 ### Land Type Oracle - Weight 0.30X
-This HIP recommends using data from a third party [site](https://viewer.esa-worldcover.org/worldcover/?language=en&bbox=-255.05859374999997,-78.6991059255054,255.05859374999997,78.69910592550542&overlay=false&bgLayer=OSM&date=2023-12-25&layer=WORLDCOVER_2021_MAP) to identify the type of land, and proved multipliers based on land type. 
+This HIP recommends using data from a third party [site](https://viewer.esa-worldcover.org/worldcover/?language=en&bbox=-255.05859374999997,-78.6991059255054,255.05859374999997,78.69910592550542&overlay=false&bgLayer=OSM&date=2023-12-25&layer=WORLDCOVER_2021_MAP) to identify the type of land, and proved multipliers based on land type. This Land Type Oracle will also be smoothed out to the res10 level like the Footfall Oracle above.
 
 The below boosts will be applied for each indoor and outdoor CBRS Radio and Wi-Fi Access Point for each res12 hex: 
 
