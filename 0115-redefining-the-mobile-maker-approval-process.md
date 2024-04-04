@@ -39,7 +39,8 @@ This HIP imposes the Helium Foundation, on behalf of MOBILE Makers, to create a 
 
 ### MOBILE CBRS Hotspots Only (Tier 3)
 1. Approval of hardware design by the Helium Foundation as outlined in HIP [HIP 19](https://github.com/helium/HIP/blob/main/0019-third-party-manufacturers.md)
-2. Approval from the MOBILE subDAO via veMOBILE vote with 67% approval
+2. Approval from the MOBILE subDAO via veMOBILE vote with 50% approval
+(Note, this will be a simple governance vote, and not done via the HIP process)
 3. The staking of 50M MOBILE tokens
 4. Provide a copy of the Makers secure boot key in an escrow wallet held by the foundation
 5. The Maker must have the following minimum balances within their Maker Wallet:
@@ -49,7 +50,8 @@ This HIP imposes the Helium Foundation, on behalf of MOBILE Makers, to create a 
 
 ### Wi-Fi Access Points Only (Tier 2)
 1. Approval of hardware design by the Helium Foundation as outlined in HIP [HIP 19](https://github.com/helium/HIP/blob/main/0019-third-party-manufacturers.md)
-2. Approval from the MOBILE subDAO via veMOBILE vote with 67% approval
+2. Approval from the MOBILE subDAO via veMOBILE vote with 50% approval
+(Note, this will be a simple governance vote, and not done via the HIP process)
 3. The staking of 50M MOBILE tokens
 4. Provide a copy of the Makers secure boot key in an escrow wallet held by the foundation
 5. The Maker must have the following minimum balances within their Maker Wallet:
@@ -59,7 +61,8 @@ This HIP imposes the Helium Foundation, on behalf of MOBILE Makers, to create a 
 
 ### Both MOBILE CBRS Hotspots and Wi-Fi Access Points (Tier 1)
 1. Approval of hardware design by the Helium Foundation as outlined in HIP [HIP 19](https://github.com/helium/HIP/blob/main/0019-third-party-manufacturers.md)
-2. Approval from the MOBILE subDAO via veMOBILE vote with 67% approval
+2. Approval from the MOBILE subDAO via veMOBILE vote with 50% approval
+(Note, this will be a simple governance vote, and not done via the HIP process)
 3. The staking of 50M MOBILE tokens
 4. Provide a copy of the Makers secure boot key in an escrow wallet held by the foundation
 5. The Maker must have the following minimum balances within their Maker Wallet:
